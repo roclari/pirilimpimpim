@@ -1,0 +1,41 @@
+body {
+    background: radial-gradient(circle, rgba(96,166,198,1) 0%, rgba(117,160,176,1) 100%, rgba(165,240,255,1) 100%);
+    font-family: monospace;
+    display: inline-block;
+    text-align: center;
+    margin-left: 45%;
+}
+
+header {
+    background-color: rgb(177, 216, 203);
+}
+
+.initial {
+    background-color: rgb(230, 245, 250);
+}
+
+.central {
+    background-color: #75a0b0;
+    border: 2px solid gray;
+    border-radius: 10%;
+    padding: 10%;
+}
+
+select {
+    font-family: monospace;
+    background-color: rgb(230, 245, 250);
+    border-color: #75a0b0;
+}
+
+.btn {
+    margin: 5%;
+    cursor: pointer;
+    background-color: rgb(177, 216, 203);
+    border-color: gray;
+    border-style: dotted;
+    font-family: monospace;
+}
+
+.final {
+    background-color: cornflowerblue;
+}
